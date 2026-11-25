@@ -1,0 +1,21 @@
+[
+{"id":"visa-dent","name":"VISA dent","niche":"Стоматология","date":"25.11.2026","color":"#4c86e8"},
+{"id":"issa-dent","name":"Issa Dent","niche":"Стоматология","date":"25.11.2026","color":"#e0a52e","big":3,"text":"Фото входа меняется по времени Астаны: днём дневное, вечером и ночью ночное."},
+{"id":"cristall-dent","name":"Кристалл-Дент","niche":"Стоматология","date":"25.11.2026","color":"#5f9cf0","big":1,"text":"Зуб из логотипа нарисован кодом и собирается из граней при загрузке."},
+{"id":"navi-dent","name":"NaviDent","niche":"Стоматология","date":"25.11.2026","color":"#2ec4b6","big":2,"text":"На зубной дуге выбираешь пакет на 5, 7 или 10 зубов, и WhatsApp открывается с готовым текстом."},
+{"id":"mmk-dental","name":"MMK Dental Clinic","niche":"Стоматология","date":"24.11.2026","color":"#3f9aa8"},
+{"id":"ramus-dental","name":"Ramus dental clinic","niche":"Стоматология","date":"24.11.2026","color":"#d9ad74"},
+{"id":"alfa-stom","name":"Альфа Стом","niche":"Стоматология","date":"24.11.2026","color":"#e2353d","big":4,"text":"Зверь из логотипа лежит на снимке зубов, а сам снимок двигается ползунком «до и после»."},
+{"id":"impladent-family","name":"Impladent family","niche":"Стоматология","date":"24.11.2026","color":"#9cc9ee"},
+{"id":"janym-stom","name":"Janym Stom","niche":"Стоматология","date":"24.11.2026","color":"#4fb5ae"},
+{"id":"batys-dent","name":"Batys Dent","niche":"Стоматология","date":"23.11.2026","color":"#c9ad93"},
+{"id":"aq-clinic","name":"AQ clinic","niche":"Стоматология","date":"23.11.2026","color":"#ddceb8"},
+{"id":"dnk-dent","name":"DNK Dent","niche":"Стоматология","date":"23.11.2026","color":"#d6c4a9"},
+{"id":"konfeta-astana","name":"Конфета","niche":"Салон красоты","date":"23.11.2026","color":"#d4576f"},
+{"id":"qaz-pvh","name":"QAZ PVH","niche":"Натяжные потолки","date":"22.11.2026","color":"#35a56a"},
+{"id":"cleaning-taza","name":"Cleaning Taza","niche":"Клининг","date":"22.11.2026","color":"#3fb3c0"},
+{"id":"total-dent","name":"TotalDent","niche":"Стоматология","date":"22.11.2026","color":"#4a9fb3"},
+{"id":"hi-dent","name":"Hi Dent","niche":"Стоматология","date":"22.11.2026","color":"#53a883"},
+{"id":"alldent-astana","name":"All Dent","niche":"Стоматология","date":"22.11.2026","color":"#c7a76a"},
+{"id":"luxvita-dental","name":"LuxVita","niche":"Стоматология","date":"22.11.2026","color":"#a3b27f"}
+]
